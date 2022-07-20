@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary>🖧 네트워크 + WEB</summary>
+<summary>🌐 네트워크 + WEB</summary>
 <div markdown="2">
  
 #### IP, xOSI 7, TCP/IP Layer
