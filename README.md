@@ -1,8 +1,8 @@
-# Interview-Question
+# 📖 Interview-Question
  
 - 주니어 백엔드 개발자 면접 시에 물어볼 수 있는 질문에 대해서 같이 공부하고, 공유하고자 합니다. 
 
-## 진행방식
+## 🎙 진행방식
 
 ### 1. 핵심 주제 딥다이브 스터디 
 
@@ -147,7 +147,7 @@
 </details>
 
 <details>
-<summary>📋 데이터베이스</summary>
+<summary>💾 데이터베이스</summary>
 <div markdown="3">
  
 #### RDBS 란?
@@ -310,7 +310,7 @@
 </div>
 </details>
 
-## References
+## ⛓ References
 
 - [Dion - Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
 
