@@ -280,7 +280,7 @@
 <div markdown="5">
  
 ### Spring
-1. Spring DI/IoC는 어떻게 동작하나요?
+1. [Spring DI/IoC는 어떻게 동작하나요?](https://github.com/Next-Squad/Interview-Question/issues/2)
 2. Spring Bean이란 무엇인가요?
 3. 스프링 Bean의 생성 과정을 설명해주세요.
 4. 스프링 Bean의 Scope에 대해서 설명해주세요.
