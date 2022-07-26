@@ -195,7 +195,7 @@
 
 #### CAP 이론(일관성, 가용성, 네트워크 분할 허용성)
 
-#### SQL과 NoSQL의 차이점
+#### [SQL과 NoSQL의 차이점](https://github.com/Next-Squad/Interview-Question/issues/4)
 
   17. 저장 방식에 따른 NoSQL 분류 (Key-Value Model, Document Model, Column Model)
   18. NOSQL 이 확장에 열려있는 이유는?
