@@ -2,6 +2,7 @@
  
 - 주니어 백엔드 개발자 면접 시에 물어볼 수 있는 질문에 대해서 같이 공부하고, 공유하고자 합니다. 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNext-Squad%2FInterview-Question&count_bg=%2379C83D&title_bg=%23150404&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 🎙 진행방식
 
 ### 1. 핵심 주제 면접 스터디 
