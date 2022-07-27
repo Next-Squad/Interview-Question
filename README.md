@@ -89,7 +89,7 @@
  1. [IPV4 vs IPV6 을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/5)
  2. IPv4의 주소 부족현상을 해결하기 위해 현재 어떤 방법을 사용하고 있나요?
  3. OSI 7 - TCP/IP Layer와 각 계층에 대한 설명과 계층화하는 이유에 대해 설명해주세요
- 4. 패킷이란 무엇인지 설명해주세요
+ 4. [패킷이란 무엇인지 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/6)
  
 #### TCP와 UDP
 
