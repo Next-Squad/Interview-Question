@@ -179,7 +179,7 @@
   6. 인덱스는 어떤 기준으로 정해야하는가?
   7. Cardinality 란?
   8. Selectivity 란?
-  
+  9. 커버링 인덱스란? 
   10. Composite Index
   11. 모든 칼럼에 Index를 사용 시 발생하는 문제는?
   12. Index 를 사용하기 적합한 테이블은?
