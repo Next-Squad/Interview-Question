@@ -174,11 +174,12 @@
 
   3. Index 의 자료구조
   4. Index 사용 시 장점과 단점
-  5. Clustered Index와 Non-Clustered Index 의 차이
+  5. [Clustered Index와 Non-Clustered Index의 차이](https://github.com/Next-Squad/Interview-Question/issues/7)
+     - Primary Index vs Secondary Index
   6. 인덱스는 어떤 기준으로 정해야하는가?
   7. Cardinality 란?
   8. Selectivity 란?
-  9. Primary Index vs Secondary Index
+  
   10. Composite Index
   11. 모든 칼럼에 Index를 사용 시 발생하는 문제는?
   12. Index 를 사용하기 적합한 테이블은?
