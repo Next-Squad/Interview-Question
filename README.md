@@ -217,7 +217,7 @@
 ### 자바
 
 1. java 언어의 장단점
-2. JVM 구조 & JAVA 동작 원리
+2. [JVM 구조 & JAVA 동작 원리](https://github.com/Next-Squad/Interview-Question/issues/8)
 3. OOP의 4가지 특징
 4. OOP의 5대 원칙 (SOLID)
 5. 객체지향(Object-Oriented)이란
@@ -240,7 +240,7 @@
 22. Java 8에 추가된 기능은 무엇이 있나요? (프로젝트를 진행하면서 버전을 11로 사용한 이유는?)
 23. Lambda란 무엇이고 어떠한 장점이 있는가?
 24. Stream API 특징이나 장점은 무엇이 있나요?
-25. Garbage Collector(GC)란? + 동작 방식 + 동작 알고리즘
+25. [Garbage Collector(GC)란? + 동작 방식 + 동작 알고리즘](https://github.com/Next-Squad/Interview-Question/issues/9)
 26. GC에 의해 변수가 초기화되는 시점을 설정해주세요.
 27. JAVA에서 바이트코드에 대해 설명해보세요.
 28. 예외처리 방법을 설명해주세요.
