@@ -100,7 +100,7 @@
  8. [4-way handshaking 과정에서 Active closer가 마지막에 ACK를 굳이 보내는 이유?](https://github.com/Next-Squad/Interview-Question/issues/14)
  9. 만약 Passive closer에서 FIN 세그먼트를 전송하기 전에 전송한 패킷이 Routing 지연이나 패킷 유실로 인한 재전송 등으로 인해 FIN 패킷보다 늦게 도착하는 상황이 발생하면 어떻게 될까?
  10. TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유?
- 11. 초기 Sequence Number인 ISN을 0부터 시작하지 않고 난수를 생성해서 설정하는 이유?
+ 11. [초기 Sequence Number인 ISN을 0부터 시작하지 않고 난수를 생성해서 설정하는 이유?](https://github.com/Next-Squad/Interview-Question/issues/20)
  12. UDP에서 신뢰도를 보장하는 방법을 설명해주세요.
  
 #### HTTP와 HTTPS
