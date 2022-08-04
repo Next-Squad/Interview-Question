@@ -187,7 +187,7 @@
 #### 트랜잭션(Transaction)이란 무엇인가?
 
   13. ACID 란?
-  14. 트랜잭션 격리 수준
+  14. [트랜잭션 격리 수준](https://github.com/Next-Squad/Interview-Question/issues/17)
   15. 트랜잭션의 상태
   16. 교착상태란?
 
