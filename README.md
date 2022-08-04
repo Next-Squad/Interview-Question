@@ -27,8 +27,8 @@
 
 | 주차  | 일시          | 주제                                                 |
 | ----- | ------------- | --------------------------------------------------- |
-| 1주차 | 22.08.02 () | [TCP와 UDP](https://github.com/Next-Squad/Interview-Question/issues/3)     |
-
+| 1주차 | 22.08.03 (수) | [TCP와 UDP](https://github.com/Next-Squad/Interview-Question/issues/3)     |
+| 2주차 | 22.08.09 (화) | [HTTP와 HTTPS](https://github.com/Next-Squad/Interview-Question/issues/18)     |
 
 ### 2. 면접 질문 공유 wiki 함께 만들기
 
