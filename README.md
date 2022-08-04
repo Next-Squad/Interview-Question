@@ -94,7 +94,7 @@
  
 #### TCP와 UDP
 
- 5. TCP와 UDP의 특징과 차이점을 설명해주세요.
+ 5. [TCP와 UDP의 특징과 차이점을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/12)
  6. [3-Handshaking과 4-Handshaking의 과정을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/15)
  7. 3-way handshaking 과정에서 클라이언트가 서버가 보낸 ACK+SYN을 받지 못하면?
  8. [4-way handshaking 과정에서 Active closer가 마지막에 ACK를 굳이 보내는 이유?](https://github.com/Next-Squad/Interview-Question/issues/14)
