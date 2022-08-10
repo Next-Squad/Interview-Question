@@ -107,7 +107,7 @@
 #### HTTP와 HTTPS
 
 13. HTTP1.1와 HTTP2.0 차이점은 무엇인가요?
-14. HTTP의 특징을 설명해주세요.
+14. [HTTP의 특징을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/26)
 15. 비대칭키 또는 공개키 암호화 방식은 무엇인가요?
 16. HTTP METHOD 종류에 대해서 설명해주세요.
 17. HTTP의 무상태성을 해결방법을 설명해주세요.
