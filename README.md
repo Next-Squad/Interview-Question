@@ -258,6 +258,7 @@
 44. java 직렬화(Serialization)와 역직렬화(Deserialization)란 무엇인가
 45. Annotation
 46. Mutable 객체와 Immutable 객체 차이점
+47. equals()와 hashCode()를 함께 오버라이딩 해야하는 이유가 무엇일까요?
 
 
 ### 자료구조
