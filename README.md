@@ -109,7 +109,7 @@
 13. HTTP1.1와 HTTP2.0 차이점은 무엇인가요?
 14. [HTTP의 특징을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/26)
 15. 비대칭키 또는 공개키 암호화 방식은 무엇인가요?
-16. HTTP METHOD 종류에 대해서 설명해주세요.
+16. [HTTP METHOD 종류에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/28)
 17. HTTP의 무상태성을 해결방법을 설명해주세요.
 18. SSL (또는 TLS) 가 어떻게 동작하는지 말씀해주세요.(연결방식)
 19. 차세대 프로토콜로 논의중인 HTTP/3 은 UDP 기반의 QUIC 이라는 기술로 구현되어 있습니다. UDP 는 TCP 대비 안정성이 떨어지는 프로토콜이라고 하는데, 그럼에도 왜 UDP 를 채택한 걸까요?
@@ -271,10 +271,9 @@
 7. 해시와 해시테이블
 8. 힙
 9. 트리
-10. Tree, Binary Tree, BST, AVL Tree, MST, Red-Black Tree
-11. 트리 순회
-12. 자료구조를 이용해서 스택 구현하기
-13. 2개의 스택으로 큐 구현하기
+- Tree, Binary Tree, BST, AVL Tree, MST, Red-Black Tree, 트리 순회
+10. 자료구조를 이용해서 스택 구현하기
+11. 2개의 스택으로 큐 구현하기
 </div>
 </details>
 
