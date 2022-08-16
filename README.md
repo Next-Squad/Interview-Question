@@ -110,7 +110,7 @@
 14. [HTTP의 특징을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/26)
 15. 비대칭키 또는 공개키 암호화 방식은 무엇인가요?
 16. [HTTP METHOD 종류에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/28)
-17. HTTP의 무상태성을 해결방법을 설명해주세요.
+17. [HTTP에서 상태유지(stateful)를 하는 방법을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/29)
 18. SSL (또는 TLS) 가 어떻게 동작하는지 말씀해주세요.(연결방식)
 19. 차세대 프로토콜로 논의중인 HTTP/3 은 UDP 기반의 QUIC 이라는 기술로 구현되어 있습니다. UDP 는 TCP 대비 안정성이 떨어지는 프로토콜이라고 하는데, 그럼에도 왜 UDP 를 채택한 걸까요?
 20. HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식에 대해 설명해주세요.
