@@ -1,6 +1,6 @@
 ---
 name: core-topic-study-issue
-about: 핵심 주제 면접 스터디 템플릿
+about: '핵심 주제 면접 스터디 주제 공지용 템플릿 '
 title: "[Week#] 핵심주제"
 labels: 핵심주제
 assignees: ''
