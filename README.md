@@ -31,7 +31,7 @@
 | 2주차 | 22.08.09 (화) | [HTTP와 HTTPS](https://github.com/Next-Squad/Interview-Question/issues/18)     |
 | 3주차 | 22.08.16 (화) | [로그인](https://github.com/Next-Squad/Interview-Question/issues/24)     |
 | 4주차 | 22.08.23 (화) | [운영체제1](https://github.com/Next-Squad/Interview-Question/issues/30)     |
-
+| 5주차 | 22.08.30 (화) | [DB1](https://github.com/Next-Squad/Interview-Question/issues/39) |
 ### 2. 면접 질문 공유 wiki 함께 만들기
 
 - 좋은 reference들을 토대로 wiki를 공동 제작합니다. 
