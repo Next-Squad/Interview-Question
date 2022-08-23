@@ -305,6 +305,7 @@
 19. Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명해주세요.
 20. 의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명해주세요.
 21. [PSA란 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/16)
+22. @Transacional이 붙은 서비스 내에서 @Async가 붙은 메소드를 호출하면 어떻게 될까요?
 
 ### JPA
 1. JPA 영속성 컨텍스트의 이점(5가지)을 설명해주세요.
