@@ -239,7 +239,7 @@
 24. Stream API 특징이나 장점은 무엇이 있나요?
 25. [Garbage Collector(GC)란? + 동작 방식 + 동작 알고리즘](https://github.com/Next-Squad/Interview-Question/issues/9)
 26. GC에 의해 변수가 초기화되는 시점을 설정해주세요.
-27. JAVA에서 바이트코드에 대해 설명해보세요.
+27. [JAVA에서 바이트코드에 대해 설명해보세요.](https://github.com/Next-Squad/Interview-Question/issues/38)
 28. 예외처리 방법을 설명해주세요.
 29. 자바에서 쓰레드를 구현하기 위한 2가지 방법을 간단하게 설명하시오.
 30. Java Collections Framework
