@@ -170,7 +170,7 @@
 #### 인덱스(Index)란 무엇인가?
 
   3. Index 의 자료구조
-  4. Index 사용 시 장점과 단점
+  4. [Index 사용 시 장점과 단점](https://github.com/Next-Squad/Interview-Question/issues/42)
   5. [Clustered Index와 Non-Clustered Index의 차이](https://github.com/Next-Squad/Interview-Question/issues/7)
      - Primary Index vs Secondary Index
   6. 인덱스는 어떤 기준으로 정해야하는가?
