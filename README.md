@@ -218,7 +218,7 @@
 1. java 언어의 장단점
 2. [JVM 구조 & JAVA 동작 원리](https://github.com/Next-Squad/Interview-Question/issues/8)
 3. OOP의 4가지 특징
-4. OOP의 5대 원칙 (SOLID)
+4. [OOP의 5대 원칙 (SOLID)](https://github.com/Next-Squad/Interview-Question/issues/45)
 5. 객체지향(Object-Oriented)이란
 6. 객체지향 프로그래밍과 절차지향 프로그래밍의 차이
 7. 클래스, 객체, 인스턴스의 차이
