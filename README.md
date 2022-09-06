@@ -231,7 +231,7 @@
 14. main 메소드가 public static인 이유는?
 15. Final 키워드의 용도에 대해 설명하시오.
 16. Generic에 대해 설명하시오.
-17. ==과 equals()의 차이에 대해 설명하세요. (동일성 vs 동등성)
+17. [==과 equals()의 차이에 대해 설명하세요. (동일성 vs 동등성)](https://github.com/Next-Squad/Interview-Question/issues/46)
 18. Call by Reference와 Call by Value의 차이에 대해 설명하시오. + 자바에서 사용하는 방식은?
 19. 추상 클래스와 인터페이스의 차이에 대해 설명하시오.
 20. java reflection에 대해 설명하시오.
