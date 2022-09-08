@@ -33,6 +33,7 @@
 | 4주차 | 22.08.23 (화) | [운영체제1](https://github.com/Next-Squad/Interview-Question/issues/30)     |
 | 5주차 | 22.08.30 (화) | [DB1](https://github.com/Next-Squad/Interview-Question/issues/39) |
 | 6주차 | 22.09.06 (화) | [Java1](https://github.com/Next-Squad/Interview-Question/issues/43) |
+| 7주차 | 22.09.13 (화) | [Spring1](https://github.com/Next-Squad/Interview-Question/issues/47) |
 
 ### 2. 면접 질문 공유 wiki 함께 만들기
 
