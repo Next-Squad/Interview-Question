@@ -293,7 +293,7 @@
 5. IoC 컨테이너의 역할은 무엇이 있을까요?
 6. [DI 종류는 어떤것이 있고, 이들의 차이는 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/19)
 7. Autowiring 과정에 대해서 설명해주세요.
-8. Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.
+8. [Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/48)
 9. 프론트 컨트롤러 패턴이란 무엇인가요?
 10. Servlet Filter와 Spring Interceptor의 차이는 무엇인가요?
 11. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요.
