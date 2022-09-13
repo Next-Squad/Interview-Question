@@ -298,7 +298,7 @@
 10. Servlet Filter와 Spring Interceptor의 차이는 무엇인가요?
 11. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요.
 12. Bean/Component 어노테이션에 대해서 설명해주시고, 둘의 차이점에 대해 설명해주세요.
-13. @Configuration 어노테이션에 대해서 설명해주세요.
+13. [@Configuration 어노테이션에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/50)
 14. [Proxy에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/25)
     - CGLIB, JDK Proxy
 15. Spring AOP를 활용해보셨다면, 어떻게 활용해보셨나요? 장점이 무엇일까요?
