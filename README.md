@@ -112,7 +112,7 @@
 
 13. HTTP1.1와 HTTP2.0 차이점은 무엇인가요?
 14. [HTTP의 특징을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/26)
-15. 비대칭키 또는 공개키 암호화 방식은 무엇인가요?
+15. [비대칭키 또는 공개키 암호화 방식은 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/52)
 16. [HTTP METHOD 종류에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/28)
 17. [HTTP에서 상태유지(stateful)를 하는 방법을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/29)
 18. SSL (또는 TLS) 가 어떻게 동작하는지 말씀해주세요.(연결방식)
