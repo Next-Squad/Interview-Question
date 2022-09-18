@@ -302,7 +302,7 @@
 14. [Proxy에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/25)
     - CGLIB, JDK Proxy
 15. Spring AOP를 활용해보셨다면, 어떻게 활용해보셨나요? 장점이 무엇일까요?
-16. POJO란 무엇인가요? Spring Framework에서 POJO는 무엇이 될 수 있을까요?
+16. [POJO란 무엇인가요? Spring Framework에서 POJO는 무엇이 될 수 있을까요?](https://github.com/Next-Squad/Interview-Question/issues/53)
 17. Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까요?
 18. Filter는 Servlet의 스펙이고, Interceptor는 Spring MVC의 스펙입니다. Spring Application에서 Filter와 Interceptor를 통해 예외를 처리할 경우 어떻게 해야 할까요?
 19. Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명해주세요.
