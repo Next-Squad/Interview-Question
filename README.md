@@ -59,7 +59,7 @@
 2. 컴퓨터는 10진수를 2진수로 바꿔서 계산합니다. 10진수를 2진수로 바꾸는 방법과, 그 반대 방법에 대해 설명해주세요.
 3. [context switching이란?](https://github.com/Next-Squad/Interview-Question/issues/10)
     - PCB에 저장되는 정보는?
-4. 비선점방식과 선점방식을 설명해주세요.
+4. [비선점방식과 선점방식을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/55)
 5. Thread 간의 데이터 공유와 Process 간의 데이터 공유의 공통점과 차이점을 설명해주세요.
     - 스레드에 스택을 독립적으로 할당하는 이유?
     - PC레지스터를 스레드마다 독립적으로 할당하는 이유?
