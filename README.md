@@ -348,7 +348,16 @@
 4. 트리 순회 방식에 대해서 설명해주세요.
 5. 특정 문자열을 검색할 때 사용하면 좋은 자료구조가 있나요?
 6. 자가 균형 이진 탐색 트리에 대해 설명해주세요.
+</div>
+</details>
 
+<details>
+<summary>etc</summary>
+<div markdown="4">
+
+1. [docker란?](https://github.com/Next-Squad/Interview-Question/issues/57)
+</div>
+</details>
 ## ⛓ References
 
 - [Dion - Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
