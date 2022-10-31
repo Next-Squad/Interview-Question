@@ -170,7 +170,7 @@
 
 #### 정규화란 무엇인가?
 
-  2. 정규화의 종류
+  2. [정규화의 종류](https://github.com/Next-Squad/Interview-Question/issues/58)
 
 #### 인덱스(Index)란 무엇인가?
 
