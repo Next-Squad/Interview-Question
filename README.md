@@ -249,7 +249,7 @@
 29. 자바에서 쓰레드를 구현하기 위한 2가지 방법을 간단하게 설명하시오.
 30. Java Collections Framework
 31. ArrayList와 LinkedList의 차이는 무엇인가요
-32. HashTable vs HashMap
+32. [HashTable vs HashMap vs ConcurrentHashMap](https://github.com/Next-Squad/Interview-Question/issues/59)
 33. CheckedException과 UnCheckedException의 차이
 34. Error, Exception 에 대해 설명
 35. Synchronized(동기화)를 하기 위한 방법은 무엇이 있나요
