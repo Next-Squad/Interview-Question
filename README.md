@@ -166,7 +166,7 @@
  
 #### RDBS 란?
 
-  1. Super Key, Candiate Key, Primary Key, Alternate Key, Foreign Key
+  1. [Super Key, Candiate Key, Primary Key, Alternate Key, Foreign Key](https://github.com/Next-Squad/Interview-Question/issues/60)
 
 #### 정규화란 무엇인가?
 
