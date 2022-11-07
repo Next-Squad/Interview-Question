@@ -126,7 +126,7 @@
  21. 도메인과 DNS가 무엇인지 설명해주세요
  22. Domain Name System 동작과정을 설명해주세요.
  23. DNS 스케줄링 알고리즘에 대해 설명해주세요. 특히 round robin 방식과 문제점을 설명해주세요
- 24. DHCP 서버의 역할을 간단히 설명해주세요.
+ 24. [DHCP 서버의 역할을 간단히 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/63)
 
 #### 로드밸런서
 
