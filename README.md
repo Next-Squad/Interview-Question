@@ -144,7 +144,7 @@
  33. 브라우저에 "www.google.com" 입력하면 어떤일이 일어날까요?
  34. RESTful API란 무엇인가요?
  35. Ajax의 장점과 단점은 무엇인가요?
- 36. CORS, preflight는 무엇인가요?
+ 36. [CORS, preflight는 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/71)
  37. 소켓이란 무엇인가요, 소켓 프로그래밍에 대해 설명해주세요?
  38. DOM과 가상DOM
  39. [OAuth란 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/40)
