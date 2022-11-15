@@ -230,7 +230,7 @@
 10. Wrapper Class에 대해 설명하시오.
 11. 자바의 접근 제어자
 12. Autoboxing, Autounboxing에 대해 설명하시오.
-13. non-static 멤버와 static 멤버의 차이에 대해 설명하시오.
+13. [non-static 멤버와 static 멤버의 차이에 대해 설명하시오.](https://github.com/Next-Squad/Interview-Question/issues/69)
 14. main 메소드가 public static인 이유는?
 15. Final 키워드의 용도에 대해 설명하시오.
 16. Generic에 대해 설명하시오.
