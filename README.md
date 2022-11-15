@@ -237,7 +237,7 @@
 17. [==과 equals()의 차이에 대해 설명하세요. (동일성 vs 동등성)](https://github.com/Next-Squad/Interview-Question/issues/46)
 18. Call by Reference와 Call by Value의 차이에 대해 설명하시오. + 자바에서 사용하는 방식은?
 19. 추상 클래스와 인터페이스의 차이에 대해 설명하시오.
-20. java reflection에 대해 설명하시오.
+20. [java reflection에 대해 설명하시오.](https://github.com/Next-Squad/Interview-Question/issues/68)
 21. String, StringBuilder, StringBuffer의 차이점을 설명해주세요.
 22. Java 8에 추가된 기능은 무엇이 있나요? (프로젝트를 진행하면서 버전을 11로 사용한 이유는?)
 23. Lambda란 무엇이고 어떠한 장점이 있는가?
