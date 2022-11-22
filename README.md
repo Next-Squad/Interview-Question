@@ -261,7 +261,7 @@
 41. this 키워드는 언제 사용되나요?
 42. 오버로딩 오버라이딩
 43. Java SE와 Java EE 애플리케이션 차이
-44. java 직렬화(Serialization)와 역직렬화(Deserialization)란 무엇인가
+44. [java 직렬화(Serialization)와 역직렬화(Deserialization)란 무엇인가](https://github.com/Next-Squad/Interview-Question/issues/73)
 45. Annotation
 46. Mutable 객체와 Immutable 객체 차이점
 47. [equals()와 hashCode()를 함께 오버라이딩 해야하는 이유가 무엇일까요?](https://github.com/Next-Squad/Interview-Question/issues/27)
