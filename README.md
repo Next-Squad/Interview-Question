@@ -113,6 +113,7 @@
 #### HTTP와 HTTPS
 
 13. [HTTP1.1와 HTTP2.0 차이점은 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/65)
+    - [HOL이란 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/66)
 14. [HTTP의 특징을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/26)
 15. [비대칭키 또는 공개키 암호화 방식은 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/52)
 16. [HTTP METHOD 종류에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/28)
@@ -235,7 +236,7 @@
 15. Final 키워드의 용도에 대해 설명하시오.
 16. Generic에 대해 설명하시오.
 17. [==과 equals()의 차이에 대해 설명하세요. (동일성 vs 동등성)](https://github.com/Next-Squad/Interview-Question/issues/46)
-18. Call by Reference와 Call by Value의 차이에 대해 설명하시오. + 자바에서 사용하는 방식은?
+18. [Call by Reference와 Call by Value의 차이에 대해 설명하시오. + 자바에서 사용하는 방식은?](https://github.com/Next-Squad/Interview-Question/issues/72)
 19. 추상 클래스와 인터페이스의 차이에 대해 설명하시오.
 20. [java reflection에 대해 설명하시오.](https://github.com/Next-Squad/Interview-Question/issues/68)
 21. String, StringBuilder, StringBuffer의 차이점을 설명해주세요.
@@ -253,6 +254,7 @@
 33. [CheckedException과 UnCheckedException의 차이](https://github.com/Next-Squad/Interview-Question/issues/44)
 34. Error, Exception 에 대해 설명
 35. Synchronized(동기화)를 하기 위한 방법은 무엇이 있나요
+    - [Java에서 동기화 및 상호배제 방식에 대해서 말씀해주세요.](https://github.com/Next-Squad/Interview-Question/issues/74)
 36. try-with-resource란?
 37. Functional Interface란 무엇인가요?
 38. Method Reference는 무엇인가요?
@@ -298,7 +300,7 @@
 8. [Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/48)
 9. [프론트 컨트롤러 패턴이란 무엇인가요?](https://github.com/Next-Squad/Interview-Question/issues/49)
 10. Servlet Filter와 Spring Interceptor의 차이는 무엇인가요?
-11. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요.
+11. [Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/71)
 12. Bean/Component 어노테이션에 대해서 설명해주시고, 둘의 차이점에 대해 설명해주세요.
 13. [@Configuration 어노테이션에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/50)
 14. [Proxy에 대해서 설명해주세요.](https://github.com/Next-Squad/Interview-Question/issues/25)
